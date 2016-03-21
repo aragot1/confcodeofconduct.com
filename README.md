@@ -31,14 +31,12 @@ Current available translations (in alphabetical order):
 Background
 ----------
 
-I've put this project under Left Logic to try to disown it from an individual. Actually, what I'd like is some kind of community organisation that projects like this can move to (perhaps also moving [mit-license.org](https://github.com/remy/mit-license) to it - but one step at a time eh?).
+You are NOT on the master branch of this project. This is the description of the fork, not the original description of the project.
 
-This simple site offers up the code of conduct that (I believe) Tiffany Conroy first wrote up for jsconf.eu 2012. I reused the same content (removing the jsconf.eu specific parts) for Full Frontal 2012.
+I've forked this project from <a href="https://github.com/leftlogic/confcodeofconduct.com">http://github.com/leftlogic/confcodeofconduct.com</a>. This particular fork can be found and pull requests can be submitted at <a href="https://github.com/aragot1/confcodeofconduct.com">http://github.com/aragot1/confcodeofconduct.com</a>.
 
-I'd like to continue using this as a simple go to reference for code of conduct for events I run - and equally events you run.
+I'd like that we continue using this and improving it so we all feel well in conferences we go to.
 
-This is *not* owned by me - this is a public resource - so if there's changes, please create a pull request, and if it makes sense, it'll be merged.
+Best regards,
 
-On that note - I'd rather not be the only person with merge permissions, so I hope that by the time you read this, I'm not the only person with those rights.
-
-&mdash; Remy / @rem
+&mdash; Adrien Ragot / @aragot

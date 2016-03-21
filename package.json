@@ -13,9 +13,9 @@
   "author": "The Web Community",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/confcodeofconduct/confcodeofconduct.com/issues"
+    "url": "https://github.com/aragot1/confcodeofconduct.com/issues"
   },
-  "homepage": "https://github.com/confcodeofconduct/confcodeofconduct.com",
+  "homepage": "https://github.com/aragot1/confcodeofconduct.com",
   "dependencies": {
     "st": "~0.2.5"
   }
